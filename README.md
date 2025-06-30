@@ -1,7 +1,5 @@
 # Hi there, I'm Daniil (gl1kk) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 
 
-![Header Banner](https://github.com/GL1KK/GL1KK/blob/main/photo_2025-06-30_14-37-57.jpg)
-
 I'm a backend developer specializing in building robust and scalable APIs. My current tech stack:
 
 <p align="left">
