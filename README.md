@@ -14,7 +14,7 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
 ## 🏆 Best Projects
 
 ### June 2025:
-1. **[TextPost](https://github.com/GL1KK/TextPost)** - blog in FastApi
+1. **[TextPost](https://github.com/GL1KK/TextPost)** - blog on FastApi
 2. **[Football Cards Bot](https://github.com/GL1KK/Football_cards_tg-bot)** - Telegram bot for football card collections
 
 ## 🛠️ Current Focus
