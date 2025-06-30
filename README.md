@@ -26,9 +26,16 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
 
 Let's connect and chat about tech!
 
-- 💬 Telegram: [@your_username]()
-- 💰 Donation Alerts: [profile_link]()
-- 🏆 Codewars: [gl1kk]() *(Add actual link later)*
+- 📢 **Telegram Channel**: [https://t.me/programisticDanya]() (Tech insights and updates)
+- 💬 **Personal Telegram**: [@GL1KK]()
+- 💰 **Donation Alerts**: [[profile_link](https://www.donationalerts.com/r/gl12kk)]()
+- 🏆 **Codewars**: [[gl1kk](https://www.codewars.com/users/GL1KK/)]() *(Add actual link later)*
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GL1KK&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GL1KK&layout=compact&theme=radical&hide_border=true)
 
 ## 💡 Philosophy
 
