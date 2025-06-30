@@ -1,41 +1,56 @@
-# Hi there, I'm Daniil (gl1kk) 👋
+# <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> Hi there, I'm Daniil (gl1kk) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-I'm a backend developer specializing in building robust and scalable APIs. My current tech stack revolves around:
+[![Header](https://github.com/GL1KK/GL1KK/blob/main/assets/banner.png)](https://github.com/GL1KK)
 
-- 🐍 **Python** as my primary language
-- 🚀 **FastAPI** for modern web APIs
-- 🐘 **PostgreSQL** for database solutions
-- 🧩 **SQLAlchemy** & **Alembic** for ORM and migrations
+I'm a backend developer specializing in building robust and scalable APIs. My current tech stack:
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
 ## 🏆 Best Projects
 
 ### June 2025:
-1. [Project 1]() - *Brief description*  
-2. [Project 2]() - *Brief description*  
-3. [Project 3]() - *Brief description*  
-
-*(Links and descriptions coming soon)*
+1. **[TextPost](https://github.com/GL1KK/TextPost)** - FastAPI application for text sharing
+2. **[Football Cards Bot](https://github.com/GL1KK/Football_cards_tg-bot)** - Telegram bot for football card collections
 
 ## 🛠️ Current Focus
 
-- Improving my skills in distributed systems
-- Learning more about database optimization
-- Contributing to open-source projects
+- 🧠 Learning distributed systems architecture
+- 🏗️ Database optimization techniques
+- 🤝 Open-source contributions
 
 ## 🌐 Social & Community
 
-Let's connect and chat about tech!
-
-- 📢 **Telegram Channel**: [https://t.me/programisticDanya]() (Tech insights and updates)
-- 💬 **Personal Telegram**: [@GL1KK]()
-- 💰 **Donation Alerts**: [[profile_link](https://www.donationalerts.com/r/gl12kk)]()
-- 🏆 **Codewars**: [[gl1kk](https://www.codewars.com/users/GL1KK/)]() *(Add actual link later)*
+<p align="left">
+  <a href="https://t.me/programisticDanya" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://t.me/GL1KK" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.donationalerts.com/r/gl12kk" target="_blank">
+    <img src="https://img.shields.io/badge/Donation_Alerts-F37620?style=for-the-badge"/>
+  </a>
+  <a href="https://www.codewars.com/users/GL1KK" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
+  </a>
+</p>
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=GL1KK&show_icons=true&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GL1KK&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GL1KK&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GL1KK&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GL1KK&theme=radical&hide_border=true"/>
+</p>
 
 ## 💡 Philosophy
 
