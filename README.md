@@ -11,12 +11,6 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-## 🏆 Best Projects
-
-### June 2025:
-1. **[TextPost](https://github.com/GL1KK/TextPost)** - blog on FastApi
-2. **[Football Cards Bot](https://github.com/GL1KK/Football_cards_tg-bot)** - Telegram bot for football card collections
-
 ## 🛠️ Current Focus
 
 - 🧠 Learning distributed systems architecture
