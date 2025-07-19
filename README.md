@@ -24,7 +24,7 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
   <a href="https://t.me/programisticDanya" target="_blank">
     <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://t.me/GL1KK" target="_blank">
+  <a href="https://t.me/M3RZNU7_RUK1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.donationalerts.com/r/gl12kk" target="_blank">
