@@ -30,7 +30,7 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
   <a href="https://www.donationalerts.com/r/gl12kk" target="_blank">
     <img src="https://img.shields.io/badge/Donation_Alerts-F37620?style=for-the-badge"/>
   </a>
-  <a href="https://www.codewars.com/users/GL1KK" target="_blank">
+  <a href="https://www.codewars.com/users/M3RZNU7_RUK1" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
 </p>
