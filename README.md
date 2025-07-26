@@ -12,7 +12,7 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
-## 🛠️ Current Focus
+### 🛠️ Current Focus
 
 - 🧠 Learning distributed systems architecture
 - 🏗️ Database optimization techniques
