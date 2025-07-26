@@ -40,3 +40,5 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GL1KK&theme=radical&hide_border=true"/>
 </p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=M3RZNU7RUK1&theme=radical&hide_border=true)
