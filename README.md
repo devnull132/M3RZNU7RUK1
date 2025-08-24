@@ -20,13 +20,13 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
   <a href="https://t.me/programisticDanya" target="_blank">
     <img src="https://img.shields.io/badge/Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://t.me/M3RZNU7_RUK1" target="_blank">
+  <a href="https://t.me/devnull_000" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
   <a href="https://www.donationalerts.com/r/gl12kk" target="_blank">
     <img src="https://img.shields.io/badge/Donation_Alerts-F37620?style=for-the-badge"/>
   </a>
-  <a href="https://www.codewars.com/users/M3RZNU7_RUK1" target="_blank">
+  <a href="https://www.codewars.com/users/devnull000" target="_blank">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white"/>
   </a>
 </p>
@@ -34,8 +34,8 @@ I'm a backend developer specializing in building robust and scalable APIs. My cu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M3RZNU7RUK1&show_icons=true&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M3RZNU7RUK1&layout=compact&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devnull132 &show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnull132 &layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
